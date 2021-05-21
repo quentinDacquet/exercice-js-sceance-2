@@ -1,0 +1,22 @@
+.txtcolor {
+  color: white;
+}
+
+.txtbg {
+  background-color: red;
+}
+
+.txtborder {
+  border: black dashed 2px;
+}
+
+.txtmargin {
+  margin-left: 5px;
+}
+
+.active {
+  color: white;
+  background-color: red;
+  border: black dashed 2px;
+  margin-left: 5px;
+}
