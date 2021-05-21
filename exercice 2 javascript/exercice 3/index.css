@@ -1,0 +1,16 @@
+* {
+  font-family: sans-serif;
+}
+
+.chrono {
+  font-size: 2em;
+  border: rgb(0, 119, 255) solid 4px;
+  border-radius: 10px;
+  width: 400px;
+  text-align: center;
+  margin: 20px auto;
+}
+
+.contenair {
+  text-align: center;
+}
